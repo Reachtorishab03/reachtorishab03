@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 Welcome to my GitHub Profile! This is Rishab Ghai, Owner of [Wiki-kingdom](https://www.Wiki-kingdom.com).
 
 Here are some ideas to get you started:
@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email: [rishab@wiki-kingdom.com](mailto:rishab@wiki-kingdom.com)
 - 😄 Pronouns: Male, He/Him
 - ⚡ Fun fact: I code mainly web based things and design things.
--->
