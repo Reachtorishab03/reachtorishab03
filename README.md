@@ -36,5 +36,7 @@ Windows                        ████████████████�
  <p> 
    Visitor count👇<br>
   
-  <img src="https://profile-counter.glitch.me/Sakthisaba/count.svg" />
+  <img src="https://profile-counter.glitch.me/rishabghai03/count.svg" />
  </p>
+
+[![Rishab's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabghai03)](https://github.com/rishabghai03/github-readme-stats)
